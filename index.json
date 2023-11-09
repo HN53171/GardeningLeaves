@@ -3,7 +3,7 @@
  "Climate":"direct sunlight, 60-70F°",
  "When":"Spring to mid-Summer",
  "Watering":"1-2in. per week",
- "Harvest": "late Summer to Fall"  
+ "Harvest": "late Summer to Fall",  
  "Image": ""
 },
 
@@ -11,7 +11,7 @@
  "Climate":"direct sunlight, 60-75F°",
  "When":"Spring or Fall",
  "Watering":"2in. per week",
- "Harvest": "before weather gets too extreme"  
+ "Harvest": "before weather gets too extreme",  
  "Image": ""
 },
 
@@ -19,6 +19,6 @@
  "Climate":"direct sunlight to partial shade, 55-60F°",
  "When":"early Spring or Fall",
  "Watering":"1-1.5in. per week",
- "Harvest": "Fall to early Winter"  
+ "Harvest": "Fall to early Winter",  
  "Image": ""
 },
