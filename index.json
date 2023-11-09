@@ -1,0 +1,24 @@
+{
+"Cabbage":{
+ "Climate":"direct sunlight, 60-70F°",
+ "When":"Spring to mid-Summer",
+ "Watering":"1-2in. per week",
+ "Harvest": "late Summer to Fall"  
+ "Image": ""
+},
+
+"Lettuce":{
+ "Climate":"direct sunlight, 60-75F°",
+ "When":"Spring or Fall",
+ "Watering":"2in. per week",
+ "Harvest": "before weather gets too extreme"  
+ "Image": ""
+},
+
+"Spinach":{
+ "Climate":"direct sunlight to partial shade, 55-60F°",
+ "When":"early Spring or Fall",
+ "Watering":"1-1.5in. per week",
+ "Harvest": "Fall to early Winter"  
+ "Image": ""
+},
