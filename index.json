@@ -1,25 +1,30 @@
-{
-  "Cabbage": {
+{ "results": [
+  
+  {
+    "Name": "Cabbage"
     "Climate": "direct sunlight, 60-70°F",
     "When": "Spring to mid-Summer",
     "Watering": "1-2 in. per week",
     "Harvest": "late Summer to Fall",
-    "Image": ""
+    "Image": "https://www.treehugger.com/thmb/vhv0x4xSvBG88bO3jhIAk0WhrmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-cabbage-5179367-01-5cb9262b033048f7a9129734dc67cad1.jpg"
   },
 
-  "Lettuce": {
+  {
+    "Name": "Lettuce" 
     "Climate": "direct sunlight, 60-75°F",
     "When": "Spring or Fall",
     "Watering": "2 in. per week",
     "Harvest": "before weather gets too extreme",
-    "Image": ""
+    "Image": "https://m.media-amazon.com/images/I/919YdhVKMOL._AC_UF894,1000_QL80_.jpg"
   },
 
-  "Spinach": {
+  { "Name": "Spinach"
     "Climate": "direct sunlight to partial shade, 55-60°F",
     "When": "early Spring or Fall",
     "Watering": "1-1.5 in. per week",
     "Harvest": "Fall to early Winter",
-    "Image": ""
+    "Image": "https://gardenerspath.com/wp-content/uploads/2017/04/growing-spinach-field-FB.jpg"
   }
+  
+]
 }
