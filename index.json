@@ -1,7 +1,7 @@
 { "results": [
   
   {
-    "Name": "Cabbage"
+    "Name": "Cabbage",
     "Climate": "direct sunlight, 60-70°F",
     "When": "Spring to mid-Summer",
     "Watering": "1-2 in. per week",
@@ -10,7 +10,7 @@
   },
 
   {
-    "Name": "Lettuce" 
+    "Name": "Lettuce", 
     "Climate": "direct sunlight, 60-75°F",
     "When": "Spring or Fall",
     "Watering": "2 in. per week",
@@ -18,7 +18,7 @@
     "Image": "https://m.media-amazon.com/images/I/919YdhVKMOL._AC_UF894,1000_QL80_.jpg"
   },
 
-  { "Name": "Spinach"
+  { "Name": "Spinach",
     "Climate": "direct sunlight to partial shade, 55-60°F",
     "When": "early Spring or Fall",
     "Watering": "1-1.5 in. per week",
